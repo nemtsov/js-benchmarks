@@ -1,2 +1,13 @@
 Random JS Performance Tests
 Run these in Node
+
+Results
+=======
+
+Function.prototype.bind Test
+-------
+
+[for based] avg of 10 runs: 31.8ms
+[self based] avg of 10 runs: 66.1ms
+[underscore based] avg of 10 runs: 542.7ms
+[bind based] avg of 10 runs: 523ms
