@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Random JS Benchmarks
 ====================
 
@@ -26,22 +25,3 @@ http://calendar.perfplanet.com/2010/bulletproof-javascript-benchmarks/
 
 You may also be interested in:
 http://jsperf.com/
-=======
-Express App Bootstrap
-=====================
-
-The script bootstraps an Express-based node.js RESTful app.
-
-Installation
-------------
-    npm -g install express-app-bootstrap
-
-
-Usage
------
-    
-    express-app-bootstrap new_app_name
-    cd new_app_name
-    npm install
-    node app
->>>>>>> b92a111771ebeb8043ee3016816ca156ab91dbba
