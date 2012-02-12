@@ -7,6 +7,8 @@ Run these in Node.
 Results (of test in the ./lib)
 -------------------------------
 
+*Executed on: MacBook Pro, 2.53 GHz Intel Core 2 Duo, 8GB RAM; Node: v0.6.10*
+
 __bind\_test:__
 
     for x 25,719,569 ops/sec ±0.36% (62 runs sampled)
